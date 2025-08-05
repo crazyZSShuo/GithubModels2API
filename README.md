@@ -58,7 +58,7 @@ curl http://127.0.0.1:61024/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer YOUR_GITHUB_TOKEN" \
   -d '{
-    "model": "gpt-4",
+    "model": "gpt-4.1",
     "messages": [
       {
         "role": "user",
@@ -75,7 +75,7 @@ curl http://127.0.0.1:61024/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer YOUR_GITHUB_TOKEN" \
   -d '{
-    "model": "gpt-4",
+    "model": "gpt-4.1",
     "messages": [
       {
         "role": "user",
