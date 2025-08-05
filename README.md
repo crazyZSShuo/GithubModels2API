@@ -32,7 +32,7 @@ You need Python 3 and the following libraries:
 2.  Install the required dependencies. It's recommended to use a virtual environment.
 
     ```bash
-    pip install fastapi uvicorn httpx
+    pip install fastapi uvicorn httpx openai
     ```
 
 ## Running the Server
