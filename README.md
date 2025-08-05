@@ -21,6 +21,7 @@ It allows you to use tools and libraries designed for the OpenAI API (like `open
 ## Prerequisites
 
 You need Python 3 and the following libraries:
+- `openai`
 - `fastapi`
 - `uvicorn`
 - `httpx`
